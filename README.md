@@ -8,7 +8,8 @@ You can use the following guide to learn how and why to create a pull request.
 
 A pull request is a way to suggest changes to a repository. When you create a pull request, you propose your changes and request that someone review and pull in your contribution and merge them into their branch. Pull requests show differences between the content from both branches and the changes are visible in the repository.
 
-<!-- TODO: Add information on PRs and forks. -->
+It is a common workflow on github for users to crate forks from projects. this allows them to copy a repository and then work indepently of the main projects. When a user is ready to request to merge thier changes back into the original code base, they can use a pull request to suggest these changes, request someone review the code and merge them into their branch.
+
 
 ## Set up your environment
 
